@@ -198,11 +198,18 @@ button {
     padding-left: 20px;
     border-radius: 12px;
     box-shadow: #1F2937;
+    
    
+}
+
+button:hover {
+    background: black;
+    color: white;
 }
 
 .buttonone {
     margin-top: 10px;
+    border: none;
 }
 
 .footer {
